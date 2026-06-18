@@ -47,6 +47,15 @@
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "spireds-pale-revamp:pale_ruin_small_camp",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
     }
   ]
 }
